@@ -29,6 +29,6 @@ jobs:
       
       - name: Execute jdsd-helper
         env:
-            jdsd_key: ${{ secrets.jdsd_key }}
+            jdsd_key: "SvJK3scNSQmrT9cvfJNxbykDJPXir4K%2BjZj9LqcDD7DNvwh8VqlJfA90Sxv6nAm"
         run: yarn start
       
