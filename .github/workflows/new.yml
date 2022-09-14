@@ -29,6 +29,6 @@ jobs:
       
       - name: Execute jdsd-helper
         env:
-            jdsd_key: "V1M9+H/LyOPAFVhWZrVVkSAgf3qe3/zjMoghkpcPvdWgVhAc/ze3NdxHye1PIagd"
+            jdsd_key: "74Il/NPmD/1HY8B9i9T3qjUgNAbBDnq96khGaqm4W9pJEMquN68Z4VRF3L5LIHjV"
         run: yarn start
       
